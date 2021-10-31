@@ -22,7 +22,7 @@ redirect_from:
 1. Outstanding Student Leader of Fuzhou University, 2018
 1. Nomination Award for Excellent Youth, College of EE, Fuzhou University, 2018
 1. Advanced Individual of Spiritual Civilization of Fuzhou University, 2017
-1. Advanced Individual in Social Practice of Summer Vacation, Fuzhou University 2016 & 2017
+1. Advanced Individual in Social Practice of Summer Vacation, Fuzhou University, 2016 & 2017
 1. Fuzhou University Comprehensive Scholarship, 2016
 
 ---

@@ -17,7 +17,7 @@ redirect_from:
 ## Selected Honors & Awards
 
 1. National English Competition for College Students of Band A, 3rd Prize, 2021
-1. Fuzhou University Simulation Competition for Postgraduate, First Prize, 2019
+1. Fuzhou University Simulation Competition for Postgraduate, 1st Prize, 2019
 1. Fuzhou University Cultural Technology Innovation and Entrepreneurship Scholarship, 2019
 1. Outstanding Student Leader of Fuzhou University, 2018
 1. Nomination Award for Excellent Youth, College of EE, Fuzhou University, 2018

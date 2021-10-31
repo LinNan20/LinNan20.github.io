@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
-title_separator          : "_"
-name                     : &name "Nan Lin"
+title                    : "Nan LIN"
+title_separator          : "-"
+name                     : &name "Nan LIN"
 description              : &description "Nan Lin, Electrical Engineering, Fuzhou University"
 url                      : https://linnan20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nan Lin"
+  name             : "Nan LIN"
   avatar           : "profile.png"
   bio              : "M.Eng. in Electrical Engineering, Fuzhou University"
   location         : "Fuzhou University, Qishan Campus<br>&#160;&#160;&#160;&#160;&#160;&#160;Fuzhou, China"

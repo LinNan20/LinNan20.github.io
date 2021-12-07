@@ -12,7 +12,6 @@ I expect to receive my M.Eng degree in Electrical Engineering from Fuzhou Univer
 I received my B.Eng degree in Electrical Engineering & Automation from Fuzhou University, China, in 2019.
 I have nearly 3-years of experience in the application of AI in power system transient stability assessment.
 I have authored 3 peer-reviewed journal papers in related fields.
-My current research interest is **Smart grid and Home energy management systems**.
 
 ---
 
